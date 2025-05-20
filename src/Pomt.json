@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "text": "What’s in your fridge? I can suggest recipes! ",
+    "question": "Suggest me a recipe , in my fridge i have ___",
+    "icon": "faUtensils"
+  },
+  {
+    "id": 2,
+    "text": "Need recommendations for your next vacation?",
+    "question": "Recommend a vacation trip in ___",
+    "icon": "faPlane"
+  },
+  {
+    "id": 3,
+    "text": "Looking for a quick home workout?",
+    "question": "Suggest me home workout ",
+    "icon": "faPersonRunning"
+  },
+  {
+    "id": 4,
+    "text": "Need help with your homework or studies?",
+    "question": "Make a notes about __",
+    "icon": "faGraduationCap"
+  },
+  {
+    "id": 5,
+    "text": "Looking for beginner-friendly investment tips?",
+    "question": "Give some investment tips as beginner",
+    "icon": "faSackDollar"
+  },
+  {
+    "id": 6,
+    "text": "Want to know the latest tech trends?",
+    "question": "Tell me latest tech trends",
+    "icon": "faMicrochip"
+  }
+]
